@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Menu2</string>
+
+
+    <string name="entrada">entrada</string>
+    <string name="fondoo">plato de fondo</string>
+
+
+    <string name="entrada1">sopa</string>
+    <string name="entrada2">ocopa</string>
+    <string name="entrada3">ensalada</string>
+
+    <string name="fondo1">aji de gallins</string>
+    <string name="fondo2">chaufa</string>
+    <string name="fondo3">pollo a la brasa</string>
+
+
+    <string name="orden">ordenar</string>
+
+
+</resources>
